@@ -1,10 +1,13 @@
 ---
 layout: page
-title: About
+title: About sawitri
 permalink: /about/
 ---
 
-Some information about you!
+Sawitri Bunsa-art
+57122420515
+
+
 
 ### More Information
 
