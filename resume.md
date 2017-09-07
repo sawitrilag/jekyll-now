@@ -1,7 +1,8 @@
 layout: page
-title:  My sawitri
+title:  My resume
 permalink: /sawitri/
 ---
+Bs.C. Computer Science, Ubon Ratchathani University.
 
 # Experience-web Developer Client Techical
  - การแกะสลัก 
