@@ -11,8 +11,7 @@ Sawitri Bunsa-art
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+นักศึกษาชั้นปีที่ 4 สาขาวิทยาการคอมพิวเตอร์ คณะวิทยาการคอมพิวเตอร์ มหาวิทยาลัยราชภัฎุบลราชธานี
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+E-mail : sawitri.bcs57@ubru.ac.th
