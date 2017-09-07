@@ -1,6 +1,6 @@
 layout: page
 title:  My resume
-permalink: /sawitri/
+permalink: /resume/
 ---
 Bs.C. Computer Science, Ubon Ratchathani University.
 
